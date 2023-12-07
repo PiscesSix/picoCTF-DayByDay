@@ -8,3 +8,4 @@ This repository is where I practice and study new knowledge about security. I be
 | 1 | logon      | [logon](./WebExploitation/logon.md)      |   100  |
 |2 | Power Cookie   | [Power Cookie](./WebExploitation/PowerCookie.md)        |   100 |
 |3 | login   | [login](./WebExploitation/logon.md)        |   100 |
+| 4 | picobrowser | [picobrowser](./WebExploitation/picobrowser.md) | 200 |
