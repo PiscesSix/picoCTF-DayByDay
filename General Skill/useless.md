@@ -67,7 +67,7 @@ man useless
 Opp~, flag  :slightly_smiling_face:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif"/>
+  <img src="https://media.giphy.com/media/kd9BlRovbPOykLBMqX/giphy.gif"/>
 </p>
 
 ---

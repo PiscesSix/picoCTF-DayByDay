@@ -20,4 +20,4 @@ This repository is where I practice and study new knowledge about security. I be
 ### General Skill
 | Id | Challenge | Link | Point |
 | -----------  | ----------- | ----------- | ----------- |
-| 1 | logon      | [logon](./WebExploitation/logon.md)      |   100  |
+| 1 | useless      | [useless](./General%20Skill/useless.md)      |   100  |
