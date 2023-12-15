@@ -1,4 +1,11 @@
-# picoCTF-DayByDay
+<h2 align="center">Hello: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Flag</h2>
+
+<!-- <p align="center">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p> -->
+
 This repository is where I practice and study new knowledge about security. I believe there may be some errors (i'm a newbie :<). 
 
 ## Category
