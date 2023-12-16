@@ -20,6 +20,11 @@ This repository is where I practice and study new knowledge about security. I be
 
 ### Binary Exploitation
 
+### Cryptography
+| Id | Challenge | Link | Point |
+| -----------  | ----------- | ----------- | ----------- |
+| 1 | caesar      | [caesar](./Cryptography/caesar/caesar.md)      |   100  |
+
 ### General Skill
 | Id | Challenge | Link | Point |
 | -----------  | ----------- | ----------- | ----------- |
