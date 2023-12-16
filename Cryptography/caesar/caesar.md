@@ -5,7 +5,7 @@
 Decrypt this [message.
 ](https://jupiter.challenges.picoctf.org/static/7d707a443e95054dc4cf30b1d9522ef0/ciphertext).
 
-## Knowledge
+## 1. Knowledge
 
 ### What is Caesar Cipher?
 
@@ -31,7 +31,7 @@ $$
     D_n(x) = (x-n) \; mod \; 26
 $$
 
-### Solution:
+### 2. Solution:
 The challenge:
 > picoCTF{gvswwmrkxlivyfmgsrhnrisegl}
 
@@ -42,6 +42,7 @@ Try 0 $-$ 25 to get flag :v
 <p align="center">
   <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" />
 </p>
+
 ---
 
 minhchi
