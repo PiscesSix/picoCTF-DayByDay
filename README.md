@@ -31,6 +31,7 @@ This repository is where I practice and study new knowledge about security. I be
 | Id | Challenge | Link | Point |
 | -----------  | ----------- | ----------- | ----------- |
 | 1 | caesar      | [caesar](./Cryptography/caesar/caesar.md)      |   100  |
+| 2 | basic-mod1      | [basic-mod1](./Cryptography/basic-mod1/basic-mod1.md)      |   100  |
 
 ### General Skill
 | Id | Challenge | Link | Point |
