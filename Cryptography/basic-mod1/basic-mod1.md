@@ -10,7 +10,7 @@ Take each number mod 37 and map it to the following character set: 0-25 is the a
 
 Wrap your decrypted message in the picoCTF flag format (i.e. picoCTF{decrypted_message})
 
-### 2. Solution:
+### 1. Solution:
 ```py
 f = open("message.txt", "r")
 
