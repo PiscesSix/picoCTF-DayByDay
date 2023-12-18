@@ -22,13 +22,15 @@ The caesar cipher is the weakest forrms of encryption:
     - The key space is very small (try all 25 shift).
 
 Mathematical for encryption:
-\[
-    E_n(x) = (x+n) \; mod \; 26
-\]
+
+$$
+E_n(x) = (x+n) \; mod \; 26
+$$
 
 Mathematical for decryption:
+
 $$
-    D_n(x) = (x-n) \; mod \; 26
+D_n(x) = (x-n) \; mod \; 26
 $$
 
 ### 2. Solution:
