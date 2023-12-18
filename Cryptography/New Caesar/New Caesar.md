@@ -24,7 +24,7 @@ You can using the mathematical above to find ```c```.
 
 I have a simple figure to describe that decryption:
 
-![](/images/NewCaesar.PNG)
+![](../images/NewCaesar.PNG)
 
 ## 2. Solution:
 
