@@ -20,9 +20,9 @@ def shift(c, k):
 	t2 = ord(k) - LOWERCASE_OFFSET
 	return ALPHABET[(t1 + t2) % 16]
 ```
-You can using the mathematical above to find ```c```.
+You can use the mathematical equation above to find ```c```.
 
-I have a simple figure to describe that decryption:
+I have a simple figure that describes the decryption process:
 
 ![](../images/NewCaesar.PNG)
 
