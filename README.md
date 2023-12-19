@@ -33,6 +33,7 @@ This repository is where I practice and study new knowledge about security. I be
 | 1 | caesar      | [caesar](./Cryptography/caesar/caesar.md)      |   100  |
 | 2 | basic-mod1      | [basic-mod1](./Cryptography/basic-mod1/basic-mod1.md)      |   100  |
 | 3 | New Caesar      | [New Caesar](./Cryptography/New%20Caesar/New%20Caesar.md)      |   60  |
+| 4 | basic-mod2      | [basic-mod2](./Cryptography/New%20Caesar/New%20Caesar.md)      |   60  |
 
 ### General Skill
 | Id | Challenge | Link | Point |
