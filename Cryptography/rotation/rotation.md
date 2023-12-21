@@ -2,8 +2,7 @@
 ## AUTHOR: LOIC SHEMA
 
 ### Description:
-You will find the flag after decrypting this file
-Download the encrypted flag [here](https://artifacts.picoctf.net/c/391/encrypted.txt).
+Theres tapping coming in from the wires. What's it saying ```nc jupiter.challenges.picoctf.org 48247.```
 
 ## 1. Knowledge
 
