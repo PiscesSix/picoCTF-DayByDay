@@ -34,6 +34,7 @@ This repository is where I practice and study new knowledge about security. I be
 | 2 | basic-mod1      | [basic-mod1](./Cryptography/basic-mod1/basic-mod1.md)      |   100  |
 | 3 | New Caesar      | [New Caesar](./Cryptography/New%20Caesar/New%20Caesar.md)      |   60  |
 | 4 | basic-mod2      | [basic-mod2](./Cryptography/basic-mod2/basic-mod2.md)      |   100  |
+| 5 | rotation      | [rotation](./Cryptography/rotation/rotation.md)      |   100  |
 
 ### General Skill
 | Id | Challenge | Link | Point |
