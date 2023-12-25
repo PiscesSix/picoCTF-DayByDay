@@ -36,6 +36,7 @@ This repository is where I practice and study new knowledge about security. I be
 | 4 | basic-mod2      | [basic-mod2](./Cryptography/basic-mod2/basic-mod2.md)      |   100  |
 | 5 | rotation      | [rotation](./Cryptography/rotation/rotation.md)      |   100  |
 | 6 | rotation      | [Flags](./Cryptography/Flags/Flags.md)      |   200  |
+| 7 | Pixelated      | [Pixelated](./Cryptography/Pixelated/Pixelated.md)      |   100  |
 
 ### General Skill
 | Id | Challenge | Link | Point |
