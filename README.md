@@ -38,6 +38,7 @@ This repository is where I practice and study new knowledge about security. I be
 | 6 | rotation      | [Flags](./Cryptography/Flags/Flags.md)      |   200  |
 | 7 | Pixelated      | [Pixelated](./Cryptography/Pixelated/Pixelated.md)      |   100  |
 | 8 | credstuff      | [credstuff](./Cryptography/credstuff/credstuff.md)      |   100  |
+| 9 | morse-code      | [morse-code](./Cryptography/morse-code/morse-code.md)      |   100  |
 
 ### General Skill
 | Id | Challenge | Link | Point |
