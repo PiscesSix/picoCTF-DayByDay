@@ -39,6 +39,7 @@ This repository is where I practice and study new knowledge about security. I be
 | 7 | Pixelated      | [Pixelated](./Cryptography/Pixelated/Pixelated.md)      |   100  |
 | 8 | credstuff      | [credstuff](./Cryptography/credstuff/credstuff.md)      |   100  |
 | 9 | morse-code      | [morse-code](./Cryptography/morse-code/morse-code.md)      |   100  |
+| 10 | la cifra de      | [la cifra de](./Cryptography/la%20cifra%20de/la%20cifra%20de.md)      |   200  |
 
 ### General Skill
 | Id | Challenge | Link | Point |
